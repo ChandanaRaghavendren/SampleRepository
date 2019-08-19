@@ -1,0 +1,9 @@
+D:\git_public\PracticeRepo\hello\hello\bin\Debug\hello.exe.config
+D:\git_public\PracticeRepo\hello\hello\bin\Debug\hello.exe
+D:\git_public\PracticeRepo\hello\hello\bin\Debug\hello.pdb
+D:\git_public\PracticeRepo\hello\hello\obj\Debug\hello.csprojResolveAssemblyReference.cache
+D:\git_public\PracticeRepo\hello\hello\obj\Debug\hello.Form1.resources
+D:\git_public\PracticeRepo\hello\hello\obj\Debug\hello.Properties.Resources.resources
+D:\git_public\PracticeRepo\hello\hello\obj\Debug\hello.csproj.GenerateResource.Cache
+D:\git_public\PracticeRepo\hello\hello\obj\Debug\hello.exe
+D:\git_public\PracticeRepo\hello\hello\obj\Debug\hello.pdb
